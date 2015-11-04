@@ -21,6 +21,9 @@ better, simpler, shorter, and more confident ways to achieve the purpose of your
 
 Please take a look at my examples, and provide questions and feedback so we can all enjoy higher quality software. Keep in mind that my code may at times not be up to your standards, and the Ruby community is an opinionated one. Try to look past the quality of the code and grok the examples in the mutation testing context.
 
+## This is not...
+... the place to recommend enhancements or additional mutations, nor to post issues with the mutant gem itself. Please go to [mutant](https://github.com/mbj/mutant) and open a new issue there. You will find a very open and supportive environment, no matter your level of experience.  
+
 Credits
 -------
 
