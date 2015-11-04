@@ -19,7 +19,7 @@ it has transformed both my tests AND more importantly my coding techniques. You 
 but the gentle suggestions it makes through mutating your code can be highly illustrative of gaps in your tests and 
 better, simpler, shorter, and more confident ways to achieve the purpose of your software. 
 
-Please take a look at my examples, and provide questions and feedback so we can all enjoy higher quality software. Keep in mind that my code may at times not be up to your standards, and the Ruby community is an opinionated one. Try to look past the qaulity of the code and grok the examples in the mutation testing context.
+Please take a look at my examples, and provide questions and feedback so we can all enjoy higher quality software. Keep in mind that my code may at times not be up to your standards, and the Ruby community is an opinionated one. Try to look past the quality of the code and grok the examples in the mutation testing context.
 
 Credits
 -------
