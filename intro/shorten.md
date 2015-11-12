@@ -6,7 +6,6 @@ Mutant mutates code. So less code, less potential mutations. And less code to re
 
 Mutant (*currently*) mutates instance and class methods only. All other code outside defined methods (requires, DSL, extends, includes, etc.) are NOT mutated. So taking advantage of DSL replacement for inline methods avoids mutations, and in most cases makes intent clear in a much more succint manner.
 
-And because of the quadratic effective of mutating multiple code lines within a single method it pays to reduce the LOC of your methods. This is good practice anyway, and can significantly drop the number of potential mutation combinations for a given class/module.
+And because of the quadratic effect of mutating multiple code lines within a single method it pays to reduce the LOC of your methods. This is good practice anyway, and can significantly drop the number of potential mutation combinations for a given class/module.
 
 So split your long methods into shorter ones (where it makes sense) and benefit from the more targetted mutations.
-

@@ -30,12 +30,13 @@ Have a look at my examples, provide questions and critiques so we can all enjoy 
 - [Keep your methods short, and your code shorter](intro/shorten.md)
 - [Assert yourself!!](intro/assertions.md)
 - [Truthy or not Truthy is never the question](intro/truthy_falsey.md)
+- [Sequence matters](intro/sequence_matters.md)
 
 ## Using with Ruby
 
 - [Setting Boundaries](ruby/setting_boundaries.md)
 - [Files, Files, everywhere](ruby/files_files.md)
-
+- [IfLess Coverage](ruby/if_less.md)
 
 ## Using with Rails
 
