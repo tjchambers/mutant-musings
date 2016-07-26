@@ -32,7 +32,7 @@ Mutation (one of many):
 
 ## Remedy
 
-In the above example my specs alwasy made the if result == FALSE, therefore the early part of my line was never executed. And mutant played havoc with various mutations, of a line I *believed* was executed. The fact that my array could NEVER have a `[nil]` was for me a  giveaway that the line was not executed. Rearranging it into the *mutant view* and running my RSpec specs with coverage PROVED that I did not ever have a path that resulted in traversing that statement.
+In the above example my specs always made the if result == FALSE, therefore the early part of my line was never executed. And mutant played havoc with various mutations, of a line I *believed* was executed. The fact that my array could NEVER have a `[nil]` was for me a  giveaway that the line was not executed. Rearranging it into the *mutant view* and running my RSpec specs with coverage PROVED that I did not ever have a path that resulted in traversing that statement.
 
 
 ## Takeaway
